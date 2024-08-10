@@ -38,7 +38,7 @@ function App() {
       )}
 
 
-      <footer id='footer'>Created by Jeff</footer>
+
     </div>
    
   );
